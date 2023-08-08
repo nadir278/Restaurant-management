@@ -1,0 +1,14 @@
+﻿  HW4.c
+G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\HW4\HW4.c(83,21): warning C4098: 'CreateProducts': 'void' function returning a value
+G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\HW4\HW4.c(112,6): warning C4101: 'i': unreferenced local variable
+G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\HW4\HW4.c(232,75): warning C4047: 'function': 'manaInTable **' differs in levels of indirection from 'manaInTable *'
+G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\HW4\HW4.c(232,58): warning C4024: 'dupe': different types for formal and actual parameter 2
+G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\HW4\HW4.c(235,36): warning C4133: '=': incompatible types - from 'manaInTable *' to 'manot *'
+G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\HW4\HW4.c(242,36): warning C4133: '=': incompatible types - from 'manaInTable *' to 'manot *'
+G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\HW4\HW4.c(248,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\HW4\HW4.c(252,35): warning C4028: formal parameter 2 different from declaration
+G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\HW4\HW4.c(273,22): warning C4133: '=': incompatible types - from 'manot *' to 'manotManager *'
+  main.c
+G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\HW4\main.c(46,22): warning C4133: '=': incompatible types - from 'manot *' to 'manotManager *'
+  Generating Code...
+  HW4.vcxproj -> G:\braude\OneDrive - ort braude college of engineering\github\Restaurant\Restaurant project\Debug\HW4.exe
